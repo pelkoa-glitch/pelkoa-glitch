@@ -1,10 +1,25 @@
-### Привет 👋
-# Меня зовут Сергей. Я начинающий веб разработчик.
+# Привет, я начинающий Python бэкенд разработчик!
 
-#Изучаю 
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
-</p>
+👋 Привет! Меня зовут Сергей, и я начинающий разработчик, специализирующийся на создании бэкенд-части веб-приложений. Моя цель - стать опытным разработчиком и внести свой вклад в мир веб-технологий.
 
-#Как связаться со мной: 
-[![Telegram Badge](https://img.shields.io/badge/-pelkoa_glitch-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/pelkoa_glitch) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](hvngmvnvibe@gmail.com)
+🚀 Навыки:
+- 🐍 Python: Изучаю и активно применяю Python для создания бэкенда.
+- 🌐 Django и Django Rest Framework: Осваиваю фреймворк Django и Django Rest Framework для разработки веб-приложений.
+- 📦 PostgreSQL: Использую PostgreSQL в качестве базы данных для моих проектов.
+- 🐳 Docker: Развертываю приложения в контейнерах Docker для упрощения разработки и развертывания.
+- 🐧 Linux: Знакомлюсь с операционной системой Linux для более глубокого понимания окружения разработки.
+- 📜 Git: Использую Git для управления версиями моих проектов и сотрудничества с другими разработчиками.
+
+📚 Обучение:
+- На данный момент в целях обучения разрабатываю приложение для упрощения повседневной жизни.
+- Решаю задачи на Codewars.com.
+
+🌱 Моя цель:
+- Я стремлюсь к тому, чтобы стать опытным бэкенд-разработчиком и создавать высококачественные веб-приложения. Моя цель - постоянно учиться и развиваться в этой области.
+
+💬 Связь:
+- [![Telegram Badge](https://img.shields.io/badge/-pelkoa_glitch-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/pelkoa_glitch) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](hvngmvnvibe@gmail.com)
+
+🌟 Спасибо за посещение моего профиля GitHub! Добро пожаловать и посмотрите мои проекты.
+
+---
